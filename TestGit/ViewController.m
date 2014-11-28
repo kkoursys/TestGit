@@ -17,11 +17,24 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    // test
+    if (NULL)
+    {
+    
+    }
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
+    // Sample
+    
+    for (int i=0;i==0;i++)
+    {
+        
+    };
 }
 
 @end
